@@ -1,0 +1,8 @@
+{
+  "short_name": "test",
+  "name": "hello",
+  "start_url": "what.com",
+  "display": "public",
+  "theme_color": "black",
+  "background_color": "haha"
+}
